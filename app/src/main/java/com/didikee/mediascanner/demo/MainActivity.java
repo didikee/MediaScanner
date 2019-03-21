@@ -20,6 +20,12 @@ import com.yanzhenjie.permission.runtime.Permission;
 import java.io.File;
 import java.util.List;
 
+/**这是几个比较典型的关于相册刷新的讨论
+ * https://juejin.im/post/5ae0541df265da0b9d77e45a
+ * https://zhuanlan.zhihu.com/p/46533159
+ * https://zhuanlan.zhihu.com/p/25634793
+ * https://blog.csdn.net/chendong_/article/details/52290329
+ */
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
 

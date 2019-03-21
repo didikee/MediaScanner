@@ -1,4 +1,5 @@
 ## How to Use:
+[![](https://jitpack.io/v/didikee/MediaScanner.svg)](https://jitpack.io/#didikee/MediaScanner)
 
 gradle:
 To get a Git project into your build:
